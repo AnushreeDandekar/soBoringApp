@@ -1,0 +1,60 @@
+html, body {
+  margin: 0 0 0 0;
+  padding: 0;
+  background-image: -webkit-linear-gradient(45deg, #FFEEAD 55%, #D9534F 50%);
+  min-height: 1000px;
+  overflow-y: hidden;
+  font-family: 'Kalam', cursive !important;
+}
+
+header {
+  background-color: #96CEB4;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 0 20px 0 rgba(0, 131, 142, 1);
+}
+
+.helloji {
+  /* background-color: pink; */
+  height: 100%;
+}
+
+.activity {
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 7%;
+  ;
+}
+
+.actcard {
+  height: 15%;
+  text-align: center;
+  background-color: #96CEB4 !important;
+}
+
+.coolbutton {
+  background-color: white !important;
+  border-color: black !important;
+  color: black !important;
+}
+
+.coolbutton:hover {
+  background-color: black !important;
+  border-color: white !important;
+  color: white !important;
+  box-shadow: 20px 0 20px 0 rgba(0, 131, 142, 1) !important;
+}
+
+.firstcard {
+  margin-left: 20%;
+  margin-right: 15%;
+  text-align: center;
+  background-color: #96CEB4 !important;
+}
+
+.secondcard {
+  margin-left: 15%;
+  margin-right: 20%;
+  text-align: center;
+  background-color: #96CEB4 !important;
+}
